@@ -1,0 +1,26 @@
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.csprojAssemblyReference.cache
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.AssemblyInfoInputs.cache
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.AssemblyInfo.cs
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.csproj.CoreCompileInputs.cache
+F:\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.exe
+F:\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.deps.json
+F:\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.runtimeconfig.json
+F:\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.runtimeconfig.dev.json
+F:\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.dll
+F:\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.pdb
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.dll
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.pdb
+F:\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.genruntimeconfig.cache
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.exe
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.deps.json
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.runtimeconfig.json
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.runtimeconfig.dev.json
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.dll
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\bin\Debug\netcoreapp3.1\Act2.pdb
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.AssemblyInfoInputs.cache
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.AssemblyInfo.cs
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.dll
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.pdb
+D:\Materi Kuliah\Tugas PAW\Act2\Act2\obj\Debug\netcoreapp3.1\Act2.genruntimeconfig.cache
